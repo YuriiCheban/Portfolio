@@ -1,5 +1,6 @@
 # Проект: Анализ оттока клиентов
-**Ссылка на Дашборд:** https://public.tableau.com/views/_16862455074800/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+**Ссылка на Дашборд:** https://public.tableau.com/views/_16862455074800/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link  
+
 **Цель проекта:**  
 Анализ клиентов регионального банка и выделение сегментов клиентов, которые склонны уходить из банка. С целью удержания Клиентов
 **Задачи:**  
